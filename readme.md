@@ -7,7 +7,7 @@
 ```bat
 convert
 
-cd nasm-2.15.05
+cd nasm-2.15.05`
 .\nasm -f bin ..\main.asm -o ..\output.bin
 
 run bin file
